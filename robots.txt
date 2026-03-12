@@ -1,0 +1,36 @@
+# robots.txt for Mohak Srivastava Portfolio
+# https://mohak014.github.io/my-portfolio/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mohak014.github.io/my-portfolio/sitemap.xml
+
+# Crawl delay (optional, be gentle on the server)
+Crawl-delay: 10
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
